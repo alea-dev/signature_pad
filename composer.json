@@ -1,0 +1,13 @@
+{
+  "name": "bytesize-zz/yii2-signature_pad",
+  "description": "Yii2 wrapper for signature_pad from szimek",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "John Doe",
+      "email": "john@example.com"
+    }
+  ],
+  "require": {}
+}
